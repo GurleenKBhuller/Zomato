@@ -3,6 +3,8 @@ Due to Zomato API Basic Plan restriction, we cannot collect enough data for anal
 Data has been collected from the Zomato API in the form of .json files(raw data) using the following url and stored in CSV file -
 https://developers.zomato.com/api/v2.1/search?entity_id=1&entity_type=city&start=1&count=20 
 
+Download link : https://drive.google.com/file/d/1FSa_x3COvCoMODa44qXufO9CQb3ydqKw/view?usp=sharing
+
 Details of zomato.csv -
 
 
